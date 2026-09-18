@@ -1,4 +1,4 @@
-# eventconnect Requirement Posting Flow
+# Eventconnect Requirement Posting Flow
 
 A full-stack requirement posting application built for the GoPratle Full-Stack Developer Intern technical assignment.
 
