@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "GoPratle | Post a Requirement",
-  description: "Event requirement posting flow",
+  title: "EventConnect Flow",
+  description: "Create and manage event requirements for planners, performers, and event crew.",
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
