@@ -1,4 +1,4 @@
-# GoPratle Requirement Posting Flow
+# eventconnect Requirement Posting Flow
 
 A full-stack requirement posting application built for the GoPratle Full-Stack Developer Intern technical assignment.
 
@@ -218,7 +218,7 @@ Requirement
 categoryDetails uses a flexible MongoDB structure because each requirement category has different fields.
 
 Project Structure
-gopratle-requirement-flow/
+eventconnect-flow/
 │
 ├── frontend/
 │   ├── app/
@@ -258,8 +258,8 @@ npm
 Git
 MongoDB Atlas account
 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/gopratle-requirement-flow.git
-cd gopratle-requirement-flow
+git clone https://github.com/YOUR_USERNAME/eventconnect-flow.git
+cd eventconnect-flow
 2. Setup Backend
 cd backend
 npm install
