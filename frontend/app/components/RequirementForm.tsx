@@ -621,7 +621,7 @@ export default function RequirementForm() {
       <div className="mx-auto max-w-4xl">
         <header className="mb-8 text-center">
           <p className="text-sm font-semibold uppercase tracking-widest text-indigo-600">
-            GoPratle
+            EVENTCONNECT FLOW
           </p>
 
           <h1 className="mt-2 text-3xl font-bold tracking-tight text-slate-900">
